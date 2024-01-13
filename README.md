@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saba Parween.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning to create python script codes.
-- 💞️ I’m looking to collaborate on Frontend web development.
+- 💞️ I’m looking to collaborate on Frontend Projects.
 - 📫 How to reach me - sabaparween1713210@gmail.com.
 
 <!---
