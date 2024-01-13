@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sabaparween786
-- 👀 I’m interested in Web Devlopment
+- 👋 Hi, I’m Saba Parween.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning to create python script codes.
-- 💞️ I’m looking to collaborate on css programs
-- 📫 How to reach me - parweensaba167@gmail.com
+- 💞️ I’m looking to collaborate on Frontend web development.
+- 📫 How to reach me - parweensaba167@gmail.com.
 
 <!---
 Sabaparween786/Sabaparween786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
